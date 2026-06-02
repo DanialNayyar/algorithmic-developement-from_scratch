@@ -8,3 +8,5 @@ Implemented so far:
 - 1D Gradient Descent
 - 2D Gradient Descent with NumPy vectors
 - Convergence plots
+- Newton's Method
+- Newton's Method with restarts
